@@ -2,10 +2,10 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Chandrika Deb',
+    title: 'Hong Chu',
     description:
-      'Chandrika Deb is an IIM alumnus who spearheads marketing initiatives at Tata Steel and is also a freelance tech blogger.',
-    siteUrl: 'https://chandrikadeb7.github.io', // No trailing slash allowed!
+      'Hong Chu is an IIM alumnus who spearheads marketing initiatives at Tata Steel and is also a freelance tech blogger.',
+    siteUrl: 'https://hong-chu.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@chandrikadeb7',
   },
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Chandrika Deb',
-        short_name: 'Chandrika Deb',
+        name: 'Hong Chu',
+        short_name: 'Hong Chu',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
