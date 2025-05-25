@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Chandrika Deb',
+    title: 'Hong Chu',
     description:
-      'Chandrika Deb is an IIM alumnus who spearheads marketing initiatives at Tata Steel and is also a freelance tech blogger.',
+      'Hong Chu is an IIM alumnus who spearheads marketing initiatives at Tata Steel and is also a freelance tech blogger.',
     siteUrl: 'https://chandrikadeb7.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@chandrikadeb7',
