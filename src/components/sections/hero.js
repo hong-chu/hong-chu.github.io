@@ -59,9 +59,9 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Namaste! My name is</h1>;
-  const two = <h2 className="big-heading">Chandrika Deb</h2>;
-  const three = <h3 className="medium-heading">MBA | Digital Marketing | Freelance Blogger</h3>;
+  const one = <h1>Hi! My name is</h1>;
+  const two = <h2 className="big-heading">Hong Chu</h2>;
+  const three = <h3 className="medium-heading">Quant | Data | Crypto</h3>;
   const four = (
     <>
       <p>
@@ -69,7 +69,7 @@ const Hero = () => {
       </p>
 
       <p>
-        I am Chandrika Deb, an alumnus of {' '} <a href="http://www.iimrohtak.ac.in">
+        I am Hong Chu, an alumnus of {' '} <a href="http://www.iimrohtak.ac.in">
         IIM Rohtak</a> {' '} and {' '} <a href="https://www.bitmesra.ac.in">BIT Mesra</a> {' '} currently spearheading impactful digital marketing initiatives at {' '}
         <a href="https://www.tatasteel.com">Tata Steel</a>.
       </p>

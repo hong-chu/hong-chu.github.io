@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Hong Chu',
     description:
-      'Hong Chu is an IIM alumnus who spearheads marketing initiatives at Tata Steel and is also a freelance tech blogger.',
+      'Hong Chu is an xxx nitiatives at Tata Steel and is also a freelance tech blogger.',
     siteUrl: 'https://hong-chu.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@chandrikadeb7',

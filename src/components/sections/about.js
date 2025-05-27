@@ -135,29 +135,19 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            With a core specialization in Marketing &amp; Strategy, I've orchestrated impactful
-             digital marketing campaigns for {' '}
-             <a href="https://digeca.tatasteel.com">DigECA</a> {' '}, an e-Commerce steel buying website for MSMEs at{' '} 
-             <a href="https://www.tatasteel.com">Tata Steel</a>.
+            I'm a Quant Researcher and Data Scientist with 10+ years of experience turning complex data into actionable insights and real-world strategies. 
             </p>
 
             <p>
-            I have also spearheaded employer branding initiatives for {' '}
-            <a href="https://drive.google.com/file/d/1w-uN9jb86pxFXPYMDu_78P-d1CZJAx3V/view?usp=sharing">
-              Aditya Birla Fashion and Retail</a>, {' '} resulting in a remarkable 37% surge in consumer engagement 
-              during my remote live project as part of my MBA journey.
+            I’ve managed $20M algorithmic trading portfolios at hedge funds and led global onshore product analytics at the second-largest crypto exchange, where I reported directly to the VP of Product. With deep expertise in data, modeling, and trading, I’ve built a strong reputation as the go-to problem solver on every team I’ve joined.
             </p>
 
             <p>
-            During my tenure at {' '} <a href="https://www.amdocs.com">Amdocs</a>, {' '} 
-            where I served as a Software Developer, I had the honor of being selected as one of 16 elite {' '} 
-            <a href="https://drive.google.com/file/d/16BGu5InZZDGCtoWas560ezwKsgVBKbI9/view?usp=sharing">Innovation Agents</a>.
+            In every role, I'm a quick learner who values efficient communication, sees both the forest and the trees, and never stops growing - learning new tools, exploring open-source projects, and finding smarter ways to work.
             </p>
 
             <p>
-            Moreover, my role as a {' '} <a href="https://drive.google.com/file/d/1iRTZfE7v5Y99BYZVxevaGBVtF90t-TOb/view?usp=sharing">
-              Placement Coordinator</a> {' '} at IIM Rohtak saw me cultivate over 30 new corporate relationships, culminating in a 
-              remarkable 42% boost in campus placements.
+            Outside of work, I play in two semi-pro basketball leagues, am a passionate foodie and chef-in-training pursuing a French culinary certification, and looking after 17 neighborhood cats. 🐾
             </p>
 
             <p>My skills are not limited to this list!</p>
